@@ -1,3 +1,7 @@
+# iscream 1.3.2
+
+- Update package logo
+
 # iscream 1.3.1
 
 DOCUMENTATION
